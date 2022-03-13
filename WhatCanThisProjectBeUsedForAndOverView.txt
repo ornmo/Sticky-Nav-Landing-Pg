@@ -1,0 +1,8 @@
+This project is a sticky nav on a landing page. As the User scrolls down the page the nav gets removes padding and changes colour.
+
+It uses Flexbox, CSS transitions and JavaScript
+
+This could be converted to be used in (for example) the following ways
+
+- sticky nav
+- landing page for website
