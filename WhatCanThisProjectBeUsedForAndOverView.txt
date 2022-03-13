@@ -1,4 +1,5 @@
 This project is a sticky nav on a landing page. As the User scrolls down the page the nav gets removes padding and changes colour.
+the project also includes an Hero image with text.
 
 It uses Flexbox, CSS transitions and JavaScript
 
